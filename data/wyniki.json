@@ -325,6 +325,40 @@
           "a": 1
         }
       ]
+    },
+    {
+      "date": "2026-10-25",
+      "opponent": "Nowy rywal",
+      "logo": "assets/img/rywale/dks-zubr.png",
+      "score": [
+        5,
+        2
+      ],
+      "home": true,
+      "competition": "Sparing",
+      "players": [
+        {
+          "id": "malisz",
+          "g": 0,
+          "a": 2
+        },
+        {
+          "id": "obluski",
+          "g": 2,
+          "a": 1
+        },
+        {
+          "id": "radek",
+          "g": 2,
+          "a": 0
+        },
+        {
+          "id": "kamil",
+          "g": 1,
+          "a": 0
+        }
+      ],
+      "mvp": "obluski"
     }
   ],
   "playerStats": {
