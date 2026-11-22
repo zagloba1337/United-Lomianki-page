@@ -359,6 +359,45 @@
         }
       ],
       "mvp": "obluski"
+    },
+    {
+      "date": "2026-11-15T14:00",
+      "opponent": "Fc Tygrysy",
+      "score": [
+        14,
+        7
+      ],
+      "home": false,
+      "venue": "Lindego",
+      "competition": "Sparing",
+      "players": [
+        {
+          "id": "sledziu",
+          "g": 3,
+          "a": 1
+        },
+        {
+          "id": "bartas",
+          "g": 3,
+          "a": 2
+        },
+        {
+          "id": "obluski",
+          "g": 3,
+          "a": 3
+        },
+        {
+          "id": "socha",
+          "g": 4,
+          "a": 1
+        },
+        {
+          "id": "wojtula",
+          "g": 1,
+          "a": 4
+        }
+      ],
+      "mvp": "socha"
     }
   ],
   "playerStats": {
